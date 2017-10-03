@@ -3,5 +3,5 @@ Calculating how many times it takes to pick up 3 marbles of the same color out o
 Using Monte Carlo and probability methods in Java.
 
 # Credits to Peggy Fisher's course on Lynda "Java essential training for Students"
-# Only for practice.ø
+# Only for practice.
 
